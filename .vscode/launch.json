@@ -5,7 +5,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch",
-            "program": "${workspaceRoot}/Bit.js",
+            "program": "${workspaceRoot}/MatMul.js",
             "cwd": "${workspaceRoot}"
         },
         {
